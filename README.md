@@ -75,6 +75,7 @@ For learning, this can be reduced into three files:
 - main.tf
 - variables.tf
 - outputs.tf
+- terraform.tfvars
 ```
 
 ---
