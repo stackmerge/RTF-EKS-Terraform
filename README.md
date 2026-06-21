@@ -79,7 +79,7 @@ Traffic flow after Mule app deployment:
 ```text
 Client
   ↓
-DNS Record, for example *.rtf.example.com
+DNS Record, for example *.rtf.muleaceacade.com
   ↓
 AWS Load Balancer created for NGINX Ingress Controller
   ↓
