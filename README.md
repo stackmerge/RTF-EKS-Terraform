@@ -143,6 +143,7 @@ The script installs or validates:
 * kubectl
 * Helm
 * rtfctl
+* eksctl
 
 Verify installations:
 
