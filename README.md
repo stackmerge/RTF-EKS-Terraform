@@ -2,6 +2,17 @@
 
 This repository provisions an AWS EKS cluster and installs the Kubernetes foundation required for MuleSoft Runtime Fabric using Terraform.
 
+
+## YouTube Tutorial
+
+Watch the complete walkthrough here:
+
+<a href="https://youtu.be/WMDKV3wshu0">
+  <img src="https://img.youtube.com/vi/KM9dqF_RlkE/maxresdefault.jpg"
+       alt="RTF on AWS EKS using Terraform"
+       width="700">
+</a>
+
 The implementation is intentionally divided into three operational phases:
 
 1. **Part 1 — Create AWS infrastructure**
